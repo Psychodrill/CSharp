@@ -1,0 +1,7 @@
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project3\bin\Debug\Project3.exe.config
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project3\bin\Debug\Project3.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project3\bin\Debug\Project3.pdb
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project3\obj\Debug\OutputData.csprojResolveAssemblyReference.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project3\obj\Debug\OutputData.csproj.CoreCompileInputs.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project3\obj\Debug\Project3.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project3\obj\Debug\Project3.pdb

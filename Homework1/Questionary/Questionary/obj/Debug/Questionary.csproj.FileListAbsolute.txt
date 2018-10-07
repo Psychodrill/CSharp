@@ -1,0 +1,7 @@
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Questionary\bin\Debug\Questionary.exe.config
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Questionary\bin\Debug\Questionary.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Questionary\bin\Debug\Questionary.pdb
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Questionary\obj\Debug\Questionary.csprojResolveAssemblyReference.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Questionary\obj\Debug\Questionary.csproj.CoreCompileInputs.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Questionary\obj\Debug\Questionary.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Questionary\obj\Debug\Questionary.pdb
