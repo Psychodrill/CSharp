@@ -1,0 +1,7 @@
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\FindingMBI\bin\Debug\FindingMBI.exe.config
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\FindingMBI\bin\Debug\FindingMBI.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\FindingMBI\bin\Debug\FindingMBI.pdb
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\FindingMBI\obj\Debug\FindingBMI.csprojResolveAssemblyReference.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\FindingMBI\obj\Debug\FindingBMI.csproj.CoreCompileInputs.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\FindingMBI\obj\Debug\FindingMBI.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\FindingMBI\obj\Debug\FindingMBI.pdb
