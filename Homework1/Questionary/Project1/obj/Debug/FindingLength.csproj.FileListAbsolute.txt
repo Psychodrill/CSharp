@@ -1,0 +1,7 @@
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project1\bin\Debug\Project1.exe.config
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project1\bin\Debug\Project1.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project1\bin\Debug\Project1.pdb
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project1\obj\Debug\FindingLength.csprojResolveAssemblyReference.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project1\obj\Debug\FindingLength.csproj.CoreCompileInputs.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project1\obj\Debug\Project1.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project1\obj\Debug\Project1.pdb
