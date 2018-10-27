@@ -1,0 +1,7 @@
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework5\Homework5\Homework5\obj\Debug\Homework5.csprojResolveAssemblyReference.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework5\Homework5\Homework5\obj\Debug\Homework5.csproj.CoreCompileInputs.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework5\Homework5\Homework5\bin\Debug\Homework5.exe.config
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework5\Homework5\Homework5\bin\Debug\Homework5.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework5\Homework5\Homework5\bin\Debug\Homework5.pdb
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework5\Homework5\Homework5\obj\Debug\Homework5.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework5\Homework5\Homework5\obj\Debug\Homework5.pdb

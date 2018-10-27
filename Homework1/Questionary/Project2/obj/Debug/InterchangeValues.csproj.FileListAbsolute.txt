@@ -1,0 +1,7 @@
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project2\bin\Debug\Project2.exe.config
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project2\bin\Debug\Project2.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project2\bin\Debug\Project2.pdb
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project2\obj\Debug\InterchangeValues.csprojResolveAssemblyReference.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project2\obj\Debug\InterchangeValues.csproj.CoreCompileInputs.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project2\obj\Debug\Project2.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework1\Questionary\Project2\obj\Debug\Project2.pdb
