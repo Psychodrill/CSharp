@@ -1,0 +1,10 @@
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework7\Homework7\Homework7\bin\Debug\Homework7.exe.config
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework7\Homework7\Homework7\bin\Debug\Homework7.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework7\Homework7\Homework7\bin\Debug\Homework7.pdb
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework7\Homework7\Homework7\obj\Debug\Homework7.csprojResolveAssemblyReference.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework7\Homework7\Homework7\obj\Debug\Homework7.frmMain.resources
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework7\Homework7\Homework7\obj\Debug\Homework7.Properties.Resources.resources
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework7\Homework7\Homework7\obj\Debug\Homework7.csproj.GenerateResource.Cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework7\Homework7\Homework7\obj\Debug\Homework7.csproj.CoreCompileInputs.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework7\Homework7\Homework7\obj\Debug\Homework7.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework7\Homework7\Homework7\obj\Debug\Homework7.pdb

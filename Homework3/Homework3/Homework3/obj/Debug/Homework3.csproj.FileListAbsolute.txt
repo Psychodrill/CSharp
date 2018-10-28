@@ -1,0 +1,7 @@
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework3\Homework3\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework3\Homework3\Homework3\bin\Debug\Homework3.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework3\Homework3\Homework3\bin\Debug\Homework3.pdb
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework3\Homework3\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework3\Homework3\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework3\Homework3\Homework3\obj\Debug\Homework3.exe
+C:\Users\Тарас\Desktop\Geekbrains\C#\Homework3\Homework3\Homework3\obj\Debug\Homework3.pdb
